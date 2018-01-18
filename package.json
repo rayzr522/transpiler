@@ -1,0 +1,9 @@
+{
+  "name": "transpiler",
+  "version": "1.0.0",
+  "description": "An attempt at a small transpiler - converts to JavaScript",
+  "main": "index.js",
+  "repository": "https://github.com/Rayzr522/transpiler",
+  "author": "Rayzr522 <rayzr522@gmail.com>",
+  "license": "MIT"
+}
