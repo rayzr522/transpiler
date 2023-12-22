@@ -21,7 +21,3 @@ Alternatively, you can pass code to run through the transpiler as a parameter to
 ```bash
 node demo.js 'x = you_are( "incredible" "k?" ); y = 3'
 ```
-
-## Join Me
-
-[![Discord Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://discord.io/rayzrdevofficial)
